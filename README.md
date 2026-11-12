@@ -37,7 +37,7 @@ I'm open to **internships**, **graduate roles** and **freelance work**.
 ### [Amplify](https://github.com/ReaMolakeng/Amplify)
 A collaborative project built as part of a team.
 
-> Replace this line with 1-2 sentences on what Amplify does, your role in it, and the tech it uses.
+**Amplify is a application that me and my team worked on where the application is used to connect the younger generation and student to actual business one day. Alongside make sure the the application is able to to help you understand the material the is on the application. It has an built in Ai and a communication feature where your able to communicate with other user on the appliaction. The most important feater is that you are able to post after being verified on the application and interreact with other post on the application **
 
 ---
 
@@ -51,8 +51,8 @@ A collaborative project built as part of a team.
 
 ## Education and Achievements
 
-**BSc in Information Technology (Software Engineering)** | Eduvos | 2024 - 2027
-**Higher Certificate in Software Development** | Eduvos | 2023 - 2024
+**BSc in Information Technology (Software Engineering)** | Eduvos | 2024 - 2026
+**Higher Certificate in Software Development** | Eduvos | 2023
 
 - Two-time top achiever at Eduvos Bloemfontein
 
