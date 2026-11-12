@@ -1,14 +1,12 @@
-<h1 align="center">Reabetsoe Molakeng | Software Engineer</h1>
-
 <p align="center">
-  <code>BSc IT (Software Engineering) @ Eduvos, Bloemfontein</code><br>
-  <code>Johannesburg, South Africa</code>
+  <img src="./assets/banner.svg" alt="Reabetsoe Molakeng | Software Engineer" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-4A4A4A?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://iamreamolakeng.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6B6B6B?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://github.com/ReaMolakeng"><img src="https://img.shields.io/badge/GitHub-8A8A8A?style=for-the-badge" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/reamolakeng"><img src="https://img.shields.io/badge/LinkedIn-262626?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://iamreamolakeng.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4A4A4A?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://iamreamolakeng.netlify.app/assests/file/Reabetsoe_Molakeng_CV.pdf"><img src="https://img.shields.io/badge/Resume-6B6B6B?style=for-the-badge" alt="Resume"></a>
+  <a href="mailto:rlenta180@gmail.com"><img src="https://img.shields.io/badge/Email-8A8A8A?style=for-the-badge" alt="Email"></a>
 </p>
 
 ---
@@ -21,7 +19,9 @@ const reabetsoe = {
   studying: "BSc IT (Software Engineering) @ Eduvos",
   location: "Johannesburg, South Africa",
   languages: ["C#", "Java", "JavaScript", "SQL", "HTML", "CSS"],
+  speaks: ["English", "Sesotho", "isiZulu"],
   traits: ["Collaborative", "Outspoken", "Gets the job done properly"],
+  currentlyLearning: ["AWS & cloud fundamentals"],
   openTo: ["Internships", "Graduate roles", "Freelance work"],
 };
 ```
@@ -30,36 +30,29 @@ I'm an outgoing developer who loves collaborating with people and is passionate 
 
 ---
 
-## `> stack --list`
+## `> skills --all`
 
-![C#](https://img.shields.io/badge/C%23-4A4A4A?style=flat-square)
-![Java](https://img.shields.io/badge/Java-6B6B6B?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-8A8A8A?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4A4A4A?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-6B6B6B?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-8A8A8A?style=flat-square)
+<p align="center">
+  <img src="./assets/skills.svg" alt="Skills: languages, web and mobile, data and cloud, engineering practice, people" width="100%">
+</p>
 
 ---
 
-## `> projects --featured`
+## `> projects --list`
 
-### [Amplify](https://github.com/ReaMolakeng/Amplify)
+<p align="center">
+  <img src="./assets/projects.svg" alt="Projects: Amplify, Database Management System, E-commerce Android App, E-Book Hub" width="100%">
+</p>
 
-A collaborative application built with my team to connect students and the younger generation with real businesses.
-
-- **Learning support:** helps users understand the material on the platform, with a built-in AI assistant.
-- **Community chat:** users can communicate with each other inside the application.
-- **Verified posting:** once verified, users can post and interact with other users' posts.
-
-![Last commit](https://img.shields.io/github/last-commit/ReaMolakeng/Amplify?style=flat-square&color=6B6B6B&labelColor=4A4A4A)
-![Top language](https://img.shields.io/github/languages/top/ReaMolakeng/Amplify?style=flat-square&color=6B6B6B&labelColor=4A4A4A)
-![Stars](https://img.shields.io/github/stars/ReaMolakeng/Amplify?style=flat-square&color=6B6B6B&labelColor=4A4A4A)
+<p align="center">
+  <a href="https://github.com/ReaMolakeng/Amplify"><b>View Amplify on GitHub →</b></a>
+</p>
 
 ---
 
 ## `> experience`
 
-**Lecture Assistant** | Eduvos, Bloemfontein | Jun 2024 - Jun 2025
+**Lecture Assistant** · Eduvos, Bloemfontein · *Jun 2024 - Jun 2025*
 - Supported students studying Information Systems Software Development.
 - Assisted lecturers with preparing student exams and tests.
 
@@ -67,30 +60,34 @@ A collaborative application built with my team to connect students and the young
 
 ## `> education --achievements`
 
-**BSc in Information Technology (Software Engineering)** | Eduvos | 2024 - 2026
-**Higher Certificate in Software Development** | Eduvos | 2023
+**BSc in Information Technology (Software Engineering)** · Eduvos · *2024 - 2026*
+Software Engineering, Data Structures and Algorithms, Networking, Database Systems
 
-- Two-time top achiever at Eduvos Bloemfontein
+**Higher Certificate in Information Systems (Software Development)** · Eduvos · *2023*
+Agile and Waterfall methodologies, team management, project delivery
+
+**Achievement:** Two-time top achiever at Eduvos Bloemfontein
 
 ---
 
 ## `> github --stats`
 
-![Followers](https://img.shields.io/github/followers/ReaMolakeng?style=flat-square&color=6B6B6B&labelColor=4A4A4A)
-![Profile views](https://komarev.com/ghpvc/?username=ReaMolakeng&style=flat-square&color=6B6B6B&label=profile+views)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ReaMolakeng?style=flat-square&color=6B6B6B&labelColor=262626" alt="Followers">
+  <img src="https://img.shields.io/github/last-commit/ReaMolakeng/Amplify?style=flat-square&color=6B6B6B&labelColor=262626" alt="Last commit">
+  <img src="https://img.shields.io/github/languages/top/ReaMolakeng/Amplify?style=flat-square&color=6B6B6B&labelColor=262626" alt="Top language">
+</p>
 
 <!--
-Optional stats cards. These rely on a free public service that is often
+Optional stats cards. These depend on a free public service that is often
 overloaded. To try them, delete this line and the closing line below.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ReaMolakeng&show_icons=true&hide_border=true&bg_color=F5F0E6&title_color=4A4A4A&text_color=6B6B6B&icon_color=8A8A8A" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaMolakeng&layout=compact&hide_border=true&bg_color=F5F0E6&title_color=4A4A4A&text_color=6B6B6B" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ReaMolakeng&show_icons=true&hide_border=true&bg_color=F5F0E6&title_color=262626&text_color=6B6B6B&icon_color=8A8A8A" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaMolakeng&layout=compact&hide_border=true&bg_color=F5F0E6&title_color=262626&text_color=6B6B6B" alt="Top languages" />
 </p>
 -->
 
----
-
 <p align="center">
-  <code>// Let's connect. I'm always happy to collaborate.</code>
+  <img src="./assets/footer.svg" alt="Let's build something great together" width="100%">
 </p>
